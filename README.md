@@ -44,7 +44,7 @@ Experience the Task Manager application live in your browser:-  http://task-mana
 
 1. Clone the Repository
 
-   git clone https://github.com/coder06082005/Task-Manager-with-Progress-Tracker
+   git clone https://github.com/mayurZope06/Task-Manager-with-Progress-Tracker
 
 2. Navigate to Project Folder
    cd task-manager-progress-tracker
@@ -87,6 +87,7 @@ Special thanks to:
 ---
 
 > 🙏 Thank you for visiting my project. Do ⭐ star the repo if you find it useful or inspiring!
+
 
 
 
