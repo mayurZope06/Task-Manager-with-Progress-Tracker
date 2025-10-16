@@ -70,7 +70,7 @@ task-manager-progress-tracker/
 
 Mayur Zope
 
-GitHub: @coder06082005
+GitHub: @mayurZope06
 
 LinkedIn: https://www.linkedin.com/in/mayurzope06/
 
@@ -87,5 +87,6 @@ Special thanks to:
 ---
 
 > 🙏 Thank you for visiting my project. Do ⭐ star the repo if you find it useful or inspiring!
+
 
 
