@@ -82,11 +82,12 @@ Special thanks to:
 - **IBM SkillsBuild**
 - **Edunet Foundation**
 - **AICTE**
-- All mentors who guided during this AI Internship
+- All mentors who guided during this Frontend Web Development Internship
 
 ---
 
 > 🙏 Thank you for visiting my project. Do ⭐ star the repo if you find it useful or inspiring!
+
 
 
 
